@@ -1,3 +1,9 @@
 p{
     color: royalblue;
 }
+.box{
+    height: 400px;
+    width: 400px;
+    background-color: blueviolet;
+    margin: auto;
+}
